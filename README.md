@@ -2,10 +2,10 @@
 Just like Sol's RNG but better
 
 ## If you would like to make the python file into an EXE file run this command
+Note: You need to have python and PyInstaller installed
 
 ### Command
 ```
-# You need to have python and PyInstaller installed
 python3.12 -m PyInstaller Brainrot.py
 ```
 
