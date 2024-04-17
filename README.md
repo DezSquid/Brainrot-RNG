@@ -10,6 +10,7 @@ python Brainrot.py
 ## If you would like to make the python file into an EXE file run this command
 Note: You need to have python and PyInstaller installed
 ```
+cd Brainrot-RNG
 python3.12 -m PyInstaller --onefile Brainrot.py phrases_data.py
 ```
 
