@@ -1,7 +1,7 @@
 # Brainrot-RNG
 Just like Sol's RNG but better
 
-#If you would like to make the python file into an EXE file run this command
+# If you would like to make the python file into an EXE file run this command
 
 ### Command
 ```
